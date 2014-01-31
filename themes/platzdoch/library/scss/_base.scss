@@ -157,7 +157,12 @@ HEADER STYLES
 
 .header {}
 
-	#logo {}
+	#logo {
+      //background-image: url("../images/platzdoch.png");
+      img {
+        width:60%;
+      }
+    }
 
 /*********************
 NAVIGATION STYLES
